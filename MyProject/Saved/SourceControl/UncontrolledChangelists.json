@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/csalad4/Documents/Unreal Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/csalad4/Documents/Unreal Projects/MyProject/Content/BluePrints/InteractiveActors/BP_Lamp.uasset",
+				"C:/Users/csalad4/Documents/Unreal Projects/MyProject/Content/BluePrints/InteractiveActors/BP_Interruptor.uasset",
+				"C:/Users/csalad4/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/EA/9BWDWCNL7OZT2HTML9LK1Y.uasset",
+				"C:/Users/csalad4/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/DV/TRE0GH5DZE4Z81T1AVDRT9.uasset",
+				"C:/Users/csalad4/Documents/Unreal Projects/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/HV/D31XU9VTW9OOEJYCZJNNRT.uasset",
+				"C:/Users/csalad4/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/csalad4/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/csalad4/Documents/Unreal Projects/MyProject/Content/BluePrints/InteractiveActors/BP_InteractiveActor.uasset",
+				"C:/Users/csalad4/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Input/Actions/IA_Interact.uasset"
+			]
+		}
+	]
+}
